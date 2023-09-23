@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-in-a-Telecom-Company
 Customer Churn Prediction in a Case Study Telecom Company
 
-![icons8-team-r-enAOPw8Rs-unsplash](https://github.com/Waltberry/Customer-Churn-Prediction-in-a-Telecom-Company/assets/63509339/ff8462e5-6e1a-4511-9f13-e1309dbed1cb)
+![icons8-team-r-enAOPw8Rs-unsplash](https://github.com/Waltberry/Customer-Churn-Prediction-in-a-Telecom-Company/assets/63509339/02a6577a-3049-4ef7-9a71-85225a8b3175)
 Credits to: <a href="https://unsplash.com/@icons8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Icons8 Team</a> on <a href="https://unsplash.com/photos/r-enAOPw8Rs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
